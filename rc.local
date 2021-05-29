@@ -1,0 +1,3 @@
+#!/bin/bash
+systemctl restart libvirtd.service
+virsh start win10-z-clone
